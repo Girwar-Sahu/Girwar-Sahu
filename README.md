@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Girwar-Sahu
-- 👀 I’m interested in ... coding and learning new skills
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey there! I'm Girwar Sahu, a web enthusiast and full-stack developer passionate about crafting delightful online experiences.
 
-<!---
-Girwar-Sahu/Girwar-Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I specialize in building robust web applications with a keen interest in front-end technologies like React.js From creating intuitive user interfaces to designing scalable back-end architectures, I love the end-to-end process of bringing web projects to life.
+
+🌱 Currently, I'm exploring serverless architecture to stay on top of the latest web development trends and improve my skills.
+
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/girwar-sahu-474909212) and let's discuss coding, tech trends, or anything geeky!
+
+Happy Coding! 🚀
